@@ -119,10 +119,6 @@ The MongoDB database includes the following models:
 4. Push to the branch (`git push origin feature-name`).
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-For questions or feedback, reach out at \[your-email@example.com\].
+For questions or feedback, reach out at \[jahirmj@gmail.com\].
