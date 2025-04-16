@@ -121,4 +121,4 @@ The MongoDB database includes the following models:
 
 ## Contact
 
-For questions or feedback, reach out at \[jahirmj@gmail.com\].
+For questions or feedback, reach out at \[jahirmj2001@gmail.com\].
