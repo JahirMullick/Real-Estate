@@ -4,6 +4,10 @@
 
 Full Stack Estate is a real estate web platform where users can list, search, and save properties for sale or rent. It includes features like interactive map-based search, real-time chat, and secure user authentication. The project is built using modern web technologies to provide a smooth and secure user experience.
 
+![Project Screenshot](./assets/Capture.PNG)
+![Project Screenshot](./assets/Capture1.PNG)
+![Project Screenshot](./assets/Capture2.PNG)
+
 ## Features
 
 - **Property Listings**: Users can create, update, and delete property listings with details like price, location, and images.
@@ -53,6 +57,7 @@ Full Stack Estate is a real estate web platform where users can list, search, an
      MONGODB_URI=your_mongodb_connection_string
      JWT_SECRET=your_jwt_secret
      PORT=5000
+     CLIENT_URL = your_client_url
      ```
 
 4. **Run the Application**:
